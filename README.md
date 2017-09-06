@@ -30,3 +30,7 @@ After installation this extension is usable without any further configuration.
 ## Troubleshooting
 
 Directly here on GitHub.
+
+## License
+
+This extension is licensed under the terms of the MIT License. See [LICENSE](LICENSE). 
