@@ -1,4 +1,6 @@
-# Define priority for Contao News
+# Define priorities for Contao News
+
+Developed by Julian Knorr.
 
 ## Synopsis
 
