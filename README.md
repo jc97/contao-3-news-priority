@@ -20,7 +20,7 @@ The description of the new field `priority` is available in english and german i
 
 ## Installation
 
-To install this extension copy it's file to `system/modules/news_priortiy/`. 
+To install this extension copy it's files to `system/modules/news_priortiy/`. 
 After that you have to run database update in Contao. 
 
 ## Configuration and use
