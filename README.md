@@ -1,4 +1,4 @@
-# Define priorities for Contao News
+# Define priorities for Contao News (Contao 3 - Deprecated)
 
 Developed by Julian Knorr.
 
